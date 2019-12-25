@@ -11,9 +11,10 @@ pip install pygame
 ```
 
 ## Usage
-
+Clone the repo and execute(in different terminals)
 ```sh
-Clone the repo and execute python main_server.py 8000  python main_client.py 8000 in different terminals
+python main_server.py 8000  
+python main_client.py 8000 
 ```
 
 ## Author
@@ -28,4 +29,4 @@ Clone the repo and execute python main_server.py 8000  python main_client.py 800
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+This README was generated with ❤️ 
